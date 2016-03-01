@@ -1,0 +1,92 @@
+/*slider*/
+.slidr_butn {
+  position: absolute;
+  bottom: 0;
+  padding: 10px;
+  text-align: center;
+  background: rgba(0, 0, 0, 0.40);
+  width: 100%;
+}
+.logo h1{
+  color: #2F5ED4 !important ;
+}
+.main_slide {
+  position: relative;
+}
+.slidr_butn > span {
+  color: #e6e6e6;
+  font-size: 14px;
+  margin: 0 10px;
+}
+/*slider*/
+/*front css*/
+.service-item i {
+  margin-top: 35%;
+}
+.social-icons1 i {
+  margin-top: 35%;
+}
+.free_demo_btn a {
+  background-color: #5cb85c !important;
+  border: medium none !important;
+  border-radius: 4px;
+  margin-top: 5px;
+}
+.text_clr{
+  color: #48AFD6;
+}
+.tabConArea > h1 {
+  margin: 0 0 10px;
+}
+.tabConArea li {
+  color: #627484;
+  font-size: 16px;
+  list-style-type: unset;
+  padding-left: 10px;
+}
+.tabConArea > ul {
+  padding-left: 15px;
+}
+.social-icons1 .last > a {
+  border-right: 1px solid #fff;
+}
+.user_reg_left h2{
+  margin: 0 0 20px;
+}
+.user_reg_left h2 .line {
+  background: rgba(0, 0, 0, 0.07) none repeat scroll 0 0;
+  bottom: 0;
+  height: 1px;
+  position: absolute;
+  width: 70%;
+}
+.user_reg_left .line::before {
+  background: #1cc6df none repeat scroll 0 0;
+  content: "";
+  display: block;
+  height: 1px;
+  position: absolute;
+  width: 50%;
+}
+.user_reg_left .main_desc p {
+  font-size: 17px;
+  font-weight: 300;
+  line-height: 1.4;
+  margin-bottom: 30px;
+}
+.reg_page_title{
+  height: 170px;
+}
+.owl-controls .owl-page, .owl-controls .owl-buttons div {
+  background-color: rgba(0, 0, 0, 0.5);
+  border: 0 none;
+  cursor: pointer;
+}
+.focusedLink a > i {
+  color: #fff;
+  font-size: 40px;
+}
+.focusedLink p {
+  color: #fff;
+}
+/*front css*/
